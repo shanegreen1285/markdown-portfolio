@@ -1,4 +1,4 @@
 * beans
 * cornbread
-  *they go hand n hand
-  *i like beans
+  * they go hand n hand
+  * i like beans
